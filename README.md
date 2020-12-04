@@ -1,16 +1,24 @@
-# testApp
 
-A new Flutter project.
+<img src="https://github.com/manujgrover71/Covid19_Tracker_Flutter/blob/master/Screenshots/Screenshot_1_Covid19.png" height="500">|
+<img src="https://github.com/manujgrover71/Covid19_Tracker_Flutter/blob/master/Screenshots/Screenshot_2_Covid19.png" height="500">
+
+
+# Covid19 Tracker App
+
+A [Flutter](https://flutter.dev/) base Covid19 Cases Tracker App, where the user get real time updates abput the current status of Active, Recovered, Death Covid19 Cases of India.
+<br><br>
+It Uses an external api to fetch real-time Data and [![](https://img.shields.io/static/v1?label=library&message=fl_chart&color=blue)](https://pub.dev/packages/fl_chart) to plot graph.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+**Clone the repository**
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/manujgrover71/Covid19_Tracker_Flutter
+```
+**Run the app**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+flutter run
+```
