@@ -7,8 +7,9 @@
 
 A [Flutter](https://flutter.dev/) base Covid19 Cases Tracker App, where the user get real time updates abput the current status of Active, Recovered, Death Covid19 Cases of India.
 <br><br>
-It Uses an external api to fetch real-time Data and [![](https://img.shields.io/static/v1?label=library&message=fl_chart&color=blue)](https://pub.dev/packages/fl_chart) to plot graph.
-
+It uses an external api to fetch real-time Data and [![](https://img.shields.io/static/v1?label=library&message=fl_chart&color=blue)](https://pub.dev/packages/fl_chart) to plot graph.
+<br><br>
+Api Used : [Postman](https://covid-19-apis.postman.com/)
 
 ## Getting Started
 
